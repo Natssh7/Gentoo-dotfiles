@@ -3,10 +3,15 @@
 Current gentoo dotfiles
 
 WM : Hyprland
+
 Wallpaper : https://www.pexels.com/photo/landscape-photography-of-mountains-covered-in-snow-691668/
+
 Top bar : ags
+
 Terminal : Alacritty
+
 File manager : Thunar
+
 browser : firefox
 
 Used the following dotfiles :
